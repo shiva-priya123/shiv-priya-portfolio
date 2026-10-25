@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Insurance Claims AI",
+    "icon": "◈",
+    "number": "PROJECT 01",
+    "description": "An ML-powered platform that predicts claim severity and assigns priority to help insurance teams focus on the claims that need attention.",
+    "technologies": ["Python", "Scikit-learn", "FastAPI", "PostgreSQL"],
+    "github": "https://github.com/shiva-priya123/insurance-claims-platform",
+    "demo": ""
+  },
+  {
+    "title": "Azure RAG Knowledge Assistant",
+    "icon": "✧",
+    "number": "PROJECT 02",
+    "description": "A document-grounded question-answering assistant using embeddings and vector search to retrieve relevant knowledge for responses.",
+    "technologies": ["Python", "RAG", "FAISS", "Transformers", "Azure"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "Agentic AI Insurance Operations Assistant",
+    "icon": "⌘",
+    "number": "PROJECT 03",
+    "description": "An assistant for claims lookup, high-priority claim retrieval, and policy search using tool-based workflows and a local language model.",
+    "technologies": ["Python", "FastAPI", "MCP", "LangChain", "Ollama"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "CareerPilot AI",
+    "icon": "◎",
+    "number": "PROJECT 04",
+    "description": "A career copilot that analyzes job descriptions and compares resumes with role requirements using skills extraction and semantic similarity.",
+    "technologies": ["Python", "FastAPI", "Sentence Transformers", "NLP"],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "title": "Local AI Job Application Copilot",
+    "icon": "⌁",
+    "number": "PROJECT 05",
+    "description": "An evolving local AI workflow project exploring n8n and Ollama for resume and job-application assistance.",
+    "technologies": ["n8n", "Ollama", "LLMs", "Local AI"],
+    "github": "",
+    "demo": ""
+  }
+]
