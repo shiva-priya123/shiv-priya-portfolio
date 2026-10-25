@@ -1,6 +1,6 @@
 const GITHUB_PROFILE = "https://github.com/shiva-priya123";
 const LINKEDIN_PROFILE = "https://www.linkedin.com/in/shiv-priya-3a84373b8/";
-const CONTACT_EMAIL = "your.email@example.com"; // Replace with your preferred professional email.
+const CONTACT_EMAIL = "shivapriyapillalamarri08@gmail.com"; // Replace with your preferred professional email.
 
 const grid = document.getElementById("project-grid");
 document.getElementById("year").textContent = new Date().getFullYear();
